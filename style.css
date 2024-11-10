@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(30, 30, 35);
+}
+.tombol{
+    color: white;  
+    background-color:#303030;   
+    width: 80px;
+    height: 80px;
+    font-family: cursive;
+}
+
+.tombol2{
+    color: #10e04e;  
+    background-color:#303030;  
+    width: 80px;
+    height: 80px;
+    font-family: cursive;
+}
+
+.clear{
+color:red;  
+background-color: #303030;   
+width: 80px;
+height: 80px;
+font-family:cursive;
+}
+
+.table{
+background-color:rgb(37, 64, 64);
+width: 100px;
+height: 100px;
+padding: 10px;
+}
+
+.layar2{
+    background-color: rgb(40, 40, 40);
+    color: rgb(255, 255, 255);
+    width: 80px;
+    height: 80px;
+    font-size: 40px;
+    font-family:cursive
+}
